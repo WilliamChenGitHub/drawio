@@ -188,8 +188,8 @@
         <mxCell id="FWjyikGKuGbgLXf5Dup_-51" value="mipi2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="705" y="350" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FWjyikGKuGbgLXf5Dup_-55" value="mipi选择" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="695" y="390" width="70" height="30" as="geometry" />
+        <mxCell id="FWjyikGKuGbgLXf5Dup_-55" value="mipi选择（下/后视）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="390" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
