@@ -52,10 +52,20 @@
             <mxPoint x="920" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FWjyikGKuGbgLXf5Dup_-52" value="mipi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FWjyikGKuGbgLXf5Dup_-15">
+          <mxGeometry x="-0.0649" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FWjyikGKuGbgLXf5Dup_-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWjyikGKuGbgLXf5Dup_-13" target="FWjyikGKuGbgLXf5Dup_-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="398" as="sourcePoint" />
             <mxPoint x="930" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FWjyikGKuGbgLXf5Dup_-54" value="mipi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FWjyikGKuGbgLXf5Dup_-18">
+          <mxGeometry x="0.0103" y="3" relative="1" as="geometry">
+            <mxPoint x="-5" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FWjyikGKuGbgLXf5Dup_-20" value="红外补光灯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -168,6 +178,18 @@
               <mxPoint x="150" y="465" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FWjyikGKuGbgLXf5Dup_-49" value="IRCUT切换控制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWjyikGKuGbgLXf5Dup_-50" value="红外灯切换控制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="308" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWjyikGKuGbgLXf5Dup_-51" value="mipi2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="350" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWjyikGKuGbgLXf5Dup_-55" value="mipi选择" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="390" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
