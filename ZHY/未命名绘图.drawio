@@ -180,7 +180,7 @@
         </mxCell>
         <mxCell id="xV7GoIm8ssLNL0BADQRP-1" value="电池信息采样" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FWjyikGKuGbgLXf5Dup_-46">
           <mxGeometry x="0.3305" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="35" y="32" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FWjyikGKuGbgLXf5Dup_-49" value="IRCUT切换控制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
