@@ -33,8 +33,14 @@
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-10" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="535" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-12" target="FK6g6sYqLbhLBO1SA9hJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-12" value="VICAP" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-14" value="ISP0" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="210" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
