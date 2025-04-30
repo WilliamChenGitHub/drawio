@@ -167,7 +167,7 @@
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-81" value="图片机应用程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="860" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-82" value="AOV应用程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-82" value="AOV应用程序WkModeMngr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="850" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
