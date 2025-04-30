@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.13">
   <diagram name="第 1 页" id="vm0noQgoKaf7Ory5WyCI">
-    <mxGraphModel dx="676" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="811" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,7 +167,7 @@
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-81" target="FK6g6sYqLbhLBO1SA9hJ-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-81" value="图片机应用程序&lt;div&gt;sctrl&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-81" value="2、图片机应用程序&lt;div&gt;sctrl&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="850" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-82" target="FK6g6sYqLbhLBO1SA9hJ-83">
@@ -176,12 +176,12 @@
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-82" target="FK6g6sYqLbhLBO1SA9hJ-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-88" value="1、启动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FK6g6sYqLbhLBO1SA9hJ-87">
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-88" value="启动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FK6g6sYqLbhLBO1SA9hJ-87">
           <mxGeometry x="-0.0673" y="1" relative="1" as="geometry">
             <mxPoint x="1" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-82" value="AOV应用程序wkMdMngr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-82" value="1、AOV应用程序wkMdMngr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="850" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-83" value="等待图片机应用程序退出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -190,7 +190,7 @@
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-85" target="FK6g6sYqLbhLBO1SA9hJ-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-85" value="运行图片机的功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-85" value="3、运行图片机的功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="1000" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-89" value="运行图片机的功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
