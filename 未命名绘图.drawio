@@ -65,8 +65,13 @@
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-21" value="VI" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="210" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-23" target="FK6g6sYqLbhLBO1SA9hJ-33">
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-23" target="FK6g6sYqLbhLBO1SA9hJ-33">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-44" value="bind/unbind" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FK6g6sYqLbhLBO1SA9hJ-43">
+          <mxGeometry x="-0.1905" y="-2" relative="1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-23" value="VPSS0" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="910" y="180" width="100" height="40" as="geometry" />
