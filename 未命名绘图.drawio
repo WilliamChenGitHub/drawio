@@ -207,7 +207,7 @@
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-89" value="5、图片机执行休眠流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="1279" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-92" target="FK6g6sYqLbhLBO1SA9hJ-83">
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-92" target="FK6g6sYqLbhLBO1SA9hJ-83">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="1440" as="targetPoint" />
           </mxGeometry>
