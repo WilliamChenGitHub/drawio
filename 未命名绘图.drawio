@@ -98,7 +98,7 @@
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-35" target="FK6g6sYqLbhLBO1SA9hJ-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-35" value="bind to venc" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-35" value="RGN（bind to venc）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1090" y="90" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
