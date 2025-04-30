@@ -233,7 +233,7 @@
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-103" target="FK6g6sYqLbhLBO1SA9hJ-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-103" value="10、退出AOV应用程序，执行反初始化流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-103" value="10、执行AOV反初始化流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="1180" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-105" target="FK6g6sYqLbhLBO1SA9hJ-83">
