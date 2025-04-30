@@ -47,7 +47,7 @@
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-16" value="VICAP" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="535" y="370" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-19" value="ISP0" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-19" value="ISP VIR1" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="370" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
