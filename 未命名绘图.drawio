@@ -193,7 +193,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-85" value="4、运行图片机的功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1000" width="110" height="60" as="geometry" />
+          <mxGeometry x="620" y="1050" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-89" target="FK6g6sYqLbhLBO1SA9hJ-92">
           <mxGeometry relative="1" as="geometry" />
