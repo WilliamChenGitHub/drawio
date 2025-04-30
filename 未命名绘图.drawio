@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.13">
   <diagram name="第 1 页" id="vm0noQgoKaf7Ory5WyCI">
-    <mxGraphModel dx="1420" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,8 +187,10 @@
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-83" value="3、等待图片机应用程序退出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="960" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-85" target="FK6g6sYqLbhLBO1SA9hJ-89">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="FK6g6sYqLbhLBO1SA9hJ-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="1230" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-85" value="4、运行图片机的功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="1000" width="110" height="60" as="geometry" />
@@ -197,36 +199,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-89" value="5、图片机执行休眠流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1270" width="110" height="60" as="geometry" />
+          <mxGeometry x="620" y="1279" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-92" target="FK6g6sYqLbhLBO1SA9hJ-96">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="1440" as="targetPoint" />
+            <mxPoint x="470" y="1610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-92" value="6、反初始化sctrl进程，保证媒体层的资源正确释放。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1410" width="110" height="60" as="geometry" />
+          <mxGeometry x="620" y="1580" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-96" target="FK6g6sYqLbhLBO1SA9hJ-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-96" value="7、启动AOV进程，初始化媒体层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1410" width="110" height="60" as="geometry" />
+          <mxGeometry x="340" y="1580" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-97" target="FK6g6sYqLbhLBO1SA9hJ-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-97" value="8、运行AOV模式功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1270" width="110" height="60" as="geometry" />
+          <mxGeometry x="340" y="1440" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-100" target="FK6g6sYqLbhLBO1SA9hJ-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-100" value="9、等待接收MCU唤醒信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1150" width="110" height="60" as="geometry" />
+          <mxGeometry x="340" y="1320" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-103" target="FK6g6sYqLbhLBO1SA9hJ-105">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-103" value="10、退出AOV应用程序，执行反初始化流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1050" width="110" height="60" as="geometry" />
+          <mxGeometry x="340" y="1220" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-105" value="11、启动图片机应用程序sctrl，并传递唤醒原因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1080" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
