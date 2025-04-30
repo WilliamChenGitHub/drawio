@@ -170,6 +170,15 @@
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-81" target="FK6g6sYqLbhLBO1SA9hJ-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="FK6g6sYqLbhLBO1SA9hJ-81" target="FK6g6sYqLbhLBO1SA9hJ-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="535" y="860" />
+              <mxPoint x="535" y="975" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-81" value="2、图片机应用程序&lt;div&gt;sctrl&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="850" width="110" height="60" as="geometry" />
         </mxCell>
