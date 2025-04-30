@@ -184,11 +184,11 @@
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-82" value="AOV应用程序wkMdMngr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="850" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-83" value="AOV应用程序wkMdMngr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="990" width="110" height="60" as="geometry" />
+        <mxCell id="FK6g6sYqLbhLBO1SA9hJ-83" value="等待图片机应用程序退出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1000" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FK6g6sYqLbhLBO1SA9hJ-85" value="图片机应用程序&lt;div&gt;sctrl&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="990" width="110" height="60" as="geometry" />
+          <mxGeometry x="620" y="1000" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
